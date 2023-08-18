@@ -64,4 +64,4 @@ pip freeze > requirements.txt
    
 ### Contact
 
-  If you have any questions or need assistance, you can reach out to the project maintainer at your@email.com.
+  If you have any questions or need assistance, you can reach out to the project maintainer at shrays650@gmail.com.
