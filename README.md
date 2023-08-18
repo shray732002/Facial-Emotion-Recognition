@@ -37,3 +37,15 @@ Before you begin, ensure you have the following prerequisites:
    ```sh
    git clone [https://github.com/your-username/vgg-emotion-predictor.git](https://github.com/shray732002/Facial-Emotion-Recognition.git)https://github.com/shray732002/Facial-Emotion-Recognition.git
    cd vgg-emotion-predictor
+2. Create a virtual environment (optional but recommended):
+
+```sh
+conda create --name env_name python=python_version
+conda activate env_name
+```
+  Install required packages:
+ ```sh
+pip freeze > requirements.txt
+```
+### Usage
+#### Predicting Emotions
