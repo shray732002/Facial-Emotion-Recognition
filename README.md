@@ -2,6 +2,8 @@
 
 Welcome to the Facial Emotion Recognition GitHub repository! This repository contains a VGG-based deep learning model that predicts the emotion of a human from input images. Additionally, it showcases the results of testing the model on a set of seven sample images.
 
+##### Dataset link :- [https://www.kaggle.com/datasets/msambare/fer2013](https://www.kaggle.com/datasets/msambare/fer2013)
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
