@@ -16,7 +16,7 @@ Welcome to the Facial Emotion Recognition GitHub repository! This repository con
 
 ## About the Project
 
-The VGG Emotion Predictor project is aimed at utilizing the power of deep learning to predict the emotions of humans from input images. The VGG model used in this project is a convolutional neural network architecture known for its effectiveness in image classification tasks.
+The Facial Emotion Recognition project is aimed at utilizing the power of deep learning to predict the emotions of humans from input images. The VGG model used in this project is a convolutional neural network architecture known for its effectiveness in image classification tasks.
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-username/vgg-emotion-predictor.git](https://github.com/shray732002/Facial-Emotion-Recognition.git)https://github.com/shray732002/Facial-Emotion-Recognition.git
+   git clone [https://github.com/your-username/Facial-Emotion-Recognition.git](https://github.com/shray732002/Facial-Emotion-Recognition.git)
    cd vgg-emotion-predictor
 2. Create a virtual environment (optional but recommended):
 
