@@ -35,5 +35,5 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/vgg-emotion-predictor.git
+   git clone [https://github.com/your-username/vgg-emotion-predictor.git](https://github.com/shray732002/Facial-Emotion-Recognition.git)https://github.com/shray732002/Facial-Emotion-Recognition.git
    cd vgg-emotion-predictor
