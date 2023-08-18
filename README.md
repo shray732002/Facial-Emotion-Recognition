@@ -10,9 +10,7 @@ Welcome to the Facial Emotion Recognition GitHub repository! This repository con
   - [Installation](#installation)
 - [Usage](#usage)
   - [Predicting Emotions](#predicting-emotions)
-  - [Viewing Test Results](#viewing-test-results)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -48,4 +46,22 @@ conda activate env_name
 pip freeze > requirements.txt
 ```
 ### Usage
-#### Predicting Emotions
+ #### Predicting Emotions
+  Just run opencv.py
+    ```sh
+    python run opencv.py
+    ```
+  It will run video capture driver in which it will scan your face and predict your emotions.
+
+### Results
+   
+   The Facial Emotion Recognition model achieved pretty good results in predicting emotions from images. The accuracy 
+   and performance metrics can be found in the ipynb file but it can be improved which I will add to this repository.
+
+### License
+
+  This project is licensed under the MIT License.
+   
+### Contact
+
+  If you have any questions or need assistance, you can reach out to the project maintainer at your@email.com.
